@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Characterstics of Stream:
- * 1.) Sized/ Infinite
+ * 1.) Sized/ unbounded
  * 2.) Ordered/ Unordered
  * 3.) Distinct/ Indistinct
  * 4.) Sorted/ Unsorted
